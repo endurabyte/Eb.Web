@@ -9,7 +9,7 @@
 }
 
 body {
-	background-color: #222;
+	background-color: #1a1a1a;
 	width: 100%;
 	color: #eee;
 	font-size: calc(1rem + 1vw);
@@ -64,7 +64,7 @@ footer {
 .header-content {
 	margin-top: 2rem;
 	text-align: center;
-	font-size: calc(4rem + 1vw);
+	font-size: calc(3rem + 1vw);
 }
 
 .section {
